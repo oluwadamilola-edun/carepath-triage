@@ -34,4 +34,4 @@ streamlit run app.py
 3. Fever + difficulty breathing + confusion (child) → urgent
 
 This is my school github account. You can find me on my personal github account here:
-(Personal Github)[https://github.com/ewa-edun]
+[Personal Github](https://github.com/ewa-edun)
