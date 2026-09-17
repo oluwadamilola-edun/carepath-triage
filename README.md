@@ -25,10 +25,7 @@ streamlit run app.py
 
 ## Deploy (Streamlit Community Cloud)
 
-1. Push this folder to a **public GitHub repo** (already set up if you used the CarePath GitHub remote).
-2. Open [share.streamlit.io](https://share.streamlit.io) and sign in with GitHub.
-3. Click **Create app** → pick the repo → branch `main` → main file `app.py`.
-4. Wait 1–2 minutes. Submit the `*.streamlit.app` URL.
+[CarePath](https://carepath-tic.streamlit.app/)
 
 ## Demo scenarios
 
